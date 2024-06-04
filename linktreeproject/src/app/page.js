@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 export default function Home() {
   return(
     <main>
-        <section className="p-4 pt-32 max-w-4xl mx-auto">
+        <section className=" pt-32">
         <div className="max-w-md">
 
           <h1 className="text-6xl font-bold">

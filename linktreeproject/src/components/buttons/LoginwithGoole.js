@@ -1,0 +1,14 @@
+'use client';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faGoogle } from "@fortawesome/free-brands-svg-icons"
+export default function Loginwithgoogle(){
+  return(
+
+<button  
+  onClick={()=>{}}
+  className="bg-white shadow-sm text-center w-full py-4 flex gap-2 justify-center">
+  <FontAwesomeIcon icon={faGoogle} className="w-8" />
+  <span>Sign In with Google </span>
+  </button>
+  )
+}
