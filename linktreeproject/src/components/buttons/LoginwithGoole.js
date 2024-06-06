@@ -7,7 +7,7 @@ export default function Loginwithgoogle(){
 <button  
   onClick={()=>{}}
   className="bg-white shadow-sm text-center w-full py-4 flex gap-2 justify-center">
-  <FontAwesomeIcon icon={faGoogle} className="w-8" />
+  <FontAwesomeIcon icon={faGoogle} className="h-6" />
   <span>Sign In with Google </span>
   </button>
   )
